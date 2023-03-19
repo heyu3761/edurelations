@@ -1,0 +1,27 @@
+average
+maximum
+minimum
+plural
+real numbers
+Line chart
+circle
+Inferior arc
+circle angle
+Sine
+cotangent
+perpendicular bisector
+Derivative
+First Derivative
+odd function
+even function
+probability
+cone
+circular cone
+interval
+closed interval
+open interval
+parabola
+circle
+center of circle
+radius
+diameter

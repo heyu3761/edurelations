@@ -1,0 +1,19 @@
+complexity
+time complexity
+space complexity
+structure type
+logical structure
+storage structure
+sequential storage
+dynamic linked list
+empty linked list
+Doubly linked list
+array
+Two-dimensional array
+Operations on linked lists
+01 napsack problem
+complete knapsack problem
+grouped knapsack problem
+tree
+dequeue
+empty string
